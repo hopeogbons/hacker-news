@@ -1,0 +1,16 @@
+{
+  "name": "hacker-news",
+  "version": "1.0.0",
+  "description": "A hacker news website clone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hope Ogbons",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "reactdom": "^2.0.0"
+  }
+}
